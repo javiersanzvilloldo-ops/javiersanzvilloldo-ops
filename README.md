@@ -1,19 +1,22 @@
-<h1 align="center"><b>Hola, soy Javier Sanz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Javier Sanz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About Me :
 
-- 🏢 Actualmente trabajo como **Desarrollador Full Stack** en
-- 🏢 Formación Full Stack Developer "Escuela de nuevas tecnologías, SOCRATECH S.L"
-- 🏡'Vivo en **Alicante**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- :school: Full Stack Developer, SOCRATECH S.L  
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `React`, `JavaScript`, `Node`, `CSS`
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`
 
 <br>
 
-## Contáctame ☕ :
+## Contact me ☕ :
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana9")](www.linkedin.com/in/javier-sanz-villoldo) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/javiersanzvilloldo/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white&style=flat-square)](mailto:javiersanzvilloldo@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-+34%20628%20720%20599-green?logo=phone&logoColor=white&style=flat-square)](tel:+34628720599)
 
 <br>
 
@@ -21,11 +24,12 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>
-
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,github,html,js,mysql,nodejs,postman,react,vscode&perline=14" />
+  </a>
 <br>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
